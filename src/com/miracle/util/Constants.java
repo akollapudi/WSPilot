@@ -3,7 +3,7 @@ package com.miracle.util;
 public class Constants {
 	//172.17.16.151
 	//public static final String JDBC_URL = "jdbc:mysql://192.168.5.10:3306/sample";
-      public static final String JDBC_URL = "jdbc:mysql://172.17.13.118:3306/mysql";
+      public static final String JDBC_URL = "jdbc:mysql://172.17.13.86:3306/mysql";
  //  public static final String JDBC_URL = "jdbc:mysql://localhost:3306/mysql";
 //	 public static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 	public static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
